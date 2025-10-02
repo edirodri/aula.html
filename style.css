@@ -156,3 +156,14 @@ footer .footer-grid{
 footer p{
     color: white;
 }
+footer .redes div img{
+     width: 60px;
+     margin: 5px;
+}
+footer .redes div{
+     color: #fff;
+}
+footer .redes div{
+     display: flex;
+     align-items: center;
+}
