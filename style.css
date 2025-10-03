@@ -176,4 +176,13 @@ footer .redes div{
      main .grid-3 .coluna{
           width: 98%;
   }
+     aside{
+          display: none;
+  }
+     main{
+          width: 100%;
+  }
 }
+
+
+
